@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dept_search</string>
+    <string name="activity_consigne">Please chose a department number: (please add a 0 before for departments 1-9)</string>
+    <string name="action_redirect">redirecting to the list</string>
+    <string name="action_save">Save</string>
+    <string name="action_confirm">Yes</string>
+    <string name="action_infirm">No</string>
+    <string name="texte_bonjour">Welcome to Dept_search. This app allows to do a research about a department by giving you a list of its towns. Yoyu will also be able to acces to the Wikipedia page of th edepartment, or open a navigation app with a spontaneously calculated itinerary.</string>
+    <string name="erreur_recherche">ERROR : No towns found, please fill in a valid department number</string>
+    <string name="titre_liste">List of towns of department</string>
+</resources>
